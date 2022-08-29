@@ -6,11 +6,8 @@
 
 Essa é uma aplicação de cunho educativo e recreativo consumindo uma API publica na construção de um quiz sobre Formula 1.
 
-<details>
+![Description](https://github.com/alexomantovani/f1_quiz/blob/main/lib/assets/iphone_F1_Quiz.gif)
 
-  ![Description](https://github.com/alexomantovani/f1_quiz/blob/main/lib/assets/iphone_F1_Quiz.gif =250x250)
-
-</details>
 
 
 
