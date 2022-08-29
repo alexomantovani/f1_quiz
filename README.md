@@ -9,7 +9,7 @@ Essa é uma aplicação de cunho educativo e recreativo consumindo uma API publi
 <details>
   <summary>F1 Quiz App</summary>
 
-  ![Description](https://github.com/alexomantovani/f1_quiz/blob/main/lib/assets/iphone_F1_Quiz.gif)
+  ![Description](https://github.com/alexomantovani/f1_quiz/blob/main/lib/assets/iphone_F1_Quiz.gif width="250" height="250")
 
 </details>
 
