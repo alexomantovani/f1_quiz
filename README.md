@@ -5,3 +5,4 @@
 ## Descrição
 
 Essa é uma aplicação de cunho educativo e recreativo consumindo uma API publica na construção de um quiz sobre Formula 1.
+
